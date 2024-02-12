@@ -4,6 +4,8 @@ Analyzed the supply chain process-data of 1.9M product orders and developed ML m
 Classification Report for Random Forest
 ![](/classification_report.png)
 
+
+
 ROC-AUC Curve for different models
 ![](/ROC_Curve.png)
 
