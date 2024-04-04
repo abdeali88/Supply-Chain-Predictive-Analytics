@@ -38,6 +38,24 @@ The dataset for this problem has two classes, positive and negative class. The p
 - rev_stop: General risk flag
 - went_on_backorder: Product went on backorder
 
+## Steps/Approach for Analysis
+### 1. Data Wrangling and Exploratory Data Analysis (EDA):
+- Preprocessed the dataset by addressing missing values and outliers.
+- Conducted Exploratory Data Analysis (EDA) to understand the data.
+
+### 2. Feature Selection:
+- Performed a Chi-square test to assess the association between independent variables and the target variable.
+- Identified and selected relevant features for the predictive model.
+
+### 3. Handling Imbalanced Data:
+- Implemented down-sampling techniques to address dataset skewness and ensure balanced representation for accurate predictions.
+
+### 4. Model Development and Evaluation:
+- Evaluated multiple machine learning models, including KNN, Logistic Regression, Random Forest, GradientBoost, and AdaBoost.
+- Conducted rigorous experimentation to identify the most effective predictive algorithm.
+- Compared model performance using metrics such as accuracy and ROC curve analysis.
+- Identified Random Forest as the highest-performing algorithm for Backorder Prediction.
+
 
 ## RESULTS
 
