@@ -39,14 +39,15 @@ The dataset for this problem has two classes, positive and negative class. The p
 - went_on_backorder: Product went on backorder
 
 
-Classification Report for Random Forest
+## RESULTS
+
+#### Classification Report for Random Forest (best model)
 
 ![](/classification_report.png)
 
 
-
-ROC-AUC Curve for different models
+#### ROC-AUC Curve for different models
 ![](/ROC_Curve.png)
 
-Precision Recall Curve for different models
+#### Precision Recall Curve for different models
 ![](/Precision_Recall_Curve.png)
