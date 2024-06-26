@@ -1,4 +1,4 @@
-# Backorders Supply Chain Analysis 
+# Supply Chain Backorders Analysis 
 ### Goal: 
 The goal of this project to minimize backorders by identifying the material at risk of backorder before the event occurs. This gives the business management a suitable time to react and make appropriate changes.
 
